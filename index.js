@@ -91,4 +91,4 @@ voiceChannel.leave();
 });
 }
 
-client.login('MTA0MjEwNjU5Mzc5MTE4NTA2Nw.GZWj3J.zKixnJvnhGIvrIkR5NEyq-izVgE0H0cAFmAKLY');
+client.login('<BOT_TOCKEN>');
