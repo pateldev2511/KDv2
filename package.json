@@ -1,0 +1,31 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "description": "Discord Music Bot to play youtube music on your server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pateldev2511/KDv2.git"
+  },
+  "keywords": [
+    "MusicBot",
+    "Music",
+    "DiscordBot",
+    "DiscordMusicBot",
+    "YTMusicBot",
+    "DiscordYouTubeMusicBot"
+  ],
+  "author": "ReCoN",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pateldev2511/KDv2/issues"
+  },
+  "homepage": "https://github.com/pateldev2511/KDv2#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "ytdl-core": "^4.11.2"
+  }
+}

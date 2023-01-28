@@ -1,0 +1,27 @@
+To set up this Discord music bot, you will need to follow these steps:
+
+Make sure you have Node.js installed on your computer. If not, you can download it from the official website (https://nodejs.org/en/download/).
+
+Create a new folder on your computer and open it in your terminal or command prompt.
+
+Type npm init in the terminal to create a new Node.js project. Fill in the prompts as desired.
+
+Install the necessary dependencies by running the following command: npm install discord.js ytdl-core.
+
+Create a new file in the folder and name it index.js.
+
+Copy the script provided in my previous answer and paste it into index.js.
+
+Replace YOUR_DISCORD_BOT_TOKEN with your bot's token. You can get your bot's token by creating a new bot on the Discord Developer Portal (https://discord.com/developers/applications)
+
+Run the script by typing node index.js in the terminal.
+
+Invite your bot to your server by generating an invite link on the Discord Developer Portal.
+
+Give your bot the proper permissions to join and speak in voice channels on your server.
+
+Once the bot is running, you should be able to use the commands !play [youtube url], !skip, and !stop to control the music.
+
+Now, your bot should be up and running. You can test it by joining a voice channel on your server and using the commands.
+It's important to note that, in order to play music, the bot requires the url of the youtube video, not the title or the name of the song.
+You can also add some error handling to handle invalid youtube links or any other errors that may occur.
